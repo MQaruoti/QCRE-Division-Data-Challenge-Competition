@@ -83,5 +83,3 @@ Where:
 * **defect** – Predicted defect label
 * **DT1, DT2, DT3** – Detection metrics or prediction scores
 
-```
-```
