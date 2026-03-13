@@ -1,4 +1,4 @@
-````markdown
+
 # Defect Detection Project
 
 A simple defect detection pipeline that trains a model on training images and generates predictions for test images.
